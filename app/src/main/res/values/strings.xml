@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">AnimalQuiz</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="question_text">This is Animal %1$d of %2$d</string>
+
+    <string name="num_of_guesses">Number of Guesses</string>
+    <string name="description">Show 2,4 or 6 Guess</string>
+
+    <string name="animal_type_title">Animals</string>
+    <string name="animal_type_description">Types of animals that you can include in your quiz</string>
+
+    <string name="choose_background_color">Choose Background color</string>
+    <string name="choose_color_description">Choose one of these color as a background color</string>
+    <string name="default_color_black">Black</string>
+
+    <string name="choose_font">Font for Quiz</string>
+    <string name="choose_font_description">Choose one of these fonts for quiz</string>
+    <string name="default_font">Chunkfive</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
